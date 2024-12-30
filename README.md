@@ -19,6 +19,11 @@ Este proyecto consiste en un formulario de encuesta desarrollado como parte de l
 
 ![Captura de pantalla del formulario](WebSiteCapture.png)
 
+- **Enlace del Proyecto**:
+   ```bash
+   https://rad-madeleine-116180.netlify.app/
+   ```
+
 ## Cómo utilizar este proyecto
 
 1. Clona este repositorio:
@@ -38,4 +43,4 @@ Si deseas contribuir a este proyecto, siéntete libre de abrir un pull request o
 
 ## Autor
 
-Desarrollado por [Tu Nombre]. Este proyecto forma parte de los retos de certificación de freeCodeCamp.
+Desarrollado por Daniel Alejandro Cangrejo López. Este proyecto forma parte de los retos de certificación de freeCodeCamp.
