@@ -23,7 +23,7 @@ Este proyecto consiste en un formulario de encuesta desarrollado como parte de l
 
 1. Clona este repositorio:
    ```bash
-   git clone https://github.com/tu_usuario/tu_repositorio.git
+   git clone https://github.com/daniel2048f/Responsive-Web-Design-First-Project-Free-Code-Camp
    ```
 2. Abre el archivo `index.html` en tu navegador para visualizar el formulario.
 
